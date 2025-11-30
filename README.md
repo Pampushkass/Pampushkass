@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/Askenskiyy"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&style=flat-square" /></a>
   <a href="https://discord.com/users/pampushkas"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-square" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=PampushkassE&style=flat-square&color=6366f1" />
 </p>
 
 </div>
